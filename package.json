@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "lint": "eslint . --list-files"
+    "lint": "eslint . --debug"
   },
   "keywords": [],
   "author": "",
