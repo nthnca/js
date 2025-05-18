@@ -28,6 +28,7 @@ module.exports = {
        'node_modules/',
        'dist/',
        'build/',
+       '__tests__/', 
        '*.min.js'
     ]
 };
